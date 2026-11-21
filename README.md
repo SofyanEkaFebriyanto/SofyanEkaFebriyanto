@@ -1,5 +1,7 @@
 # Hi, I'm Sofyan 👋
 
+> *Building with Code, Thinking with Data.*
+
 ![Profile views](https://komarev.com/ghpvc/?username=SofyanEkaFebriyanto&color=0e75b6&style=flat)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+Developer;Go+%E2%80%A2+Laravel+%E2%80%A2+Flutter;Building+Kantor+AI;XAUUSD+systematic+trader)](https://git.io/typing-svg)
