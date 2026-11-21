@@ -63,7 +63,11 @@
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SofyanEkaFebriyanto&bg_color=0d1117&color=c9d1d9&line=e8b84b&point=e8b84b)
 
-![Contribution snake](https://raw.githubusercontent.com/SofyanEkaFebriyanto/SofyanEkaFebriyanto/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SofyanEkaFebriyanto/SofyanEkaFebriyanto/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SofyanEkaFebriyanto/SofyanEkaFebriyanto/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SofyanEkaFebriyanto/SofyanEkaFebriyanto/output/github-snake.svg" />
+</picture>
 
 ## 🎯 Currently focused on
 
