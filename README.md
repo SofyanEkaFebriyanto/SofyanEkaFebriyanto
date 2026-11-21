@@ -1,10 +1,14 @@
 # Hi, I'm Sofyan 👋
 
-> *Building with Code, Thinking with Data.*
+<h3 align="center"><i>Building with Code, Thinking with Data.</i></h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=SofyanEkaFebriyanto&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SofyanEkaFebriyanto&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+Developer;Go+%E2%80%A2+Laravel+%E2%80%A2+Flutter;Building+Kantor+AI;XAUUSD+systematic+trader)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+Developer;Go+%E2%80%A2+Laravel+%E2%80%A2+Flutter;Building+Kantor+AI;XAUUSD+systematic+trader" alt="Typing SVG" /></a>
+</p>
 
 Developer from Indonesia. I build AI tools, web apps, and trading systems, mostly with Go, Laravel, and Flutter.
 
