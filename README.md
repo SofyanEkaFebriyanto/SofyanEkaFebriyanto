@@ -1,5 +1,9 @@
 # Hi, I'm Sofyan 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=SofyanEkaFebriyanto&color=0e75b6&style=flat)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+Developer;Go+%E2%80%A2+Laravel+%E2%80%A2+Flutter;Building+Kantor+AI;XAUUSD+systematic+trader)](https://git.io/typing-svg)
+
 Developer from Indonesia. I build AI tools, web apps, and trading systems, mostly with Go, Laravel, and Flutter.
 
 ## What I'm building
@@ -8,6 +12,15 @@ Developer from Indonesia. I build AI tools, web apps, and trading systems, mostl
 - **Noir** — my personal AI assistant with memory, tools, and voice, self-hosted. [repo](https://github.com/SofyanEkaFebriyanto/noir-app)
 - **Kenfa** — e-commerce for a fashion brand: Laravel + WordPress/WooCommerce with Midtrans payments.
 - **Trade Journal** — self-hosted trading journal with broker sync, P&L calendar, and trade replay. [jurnal.sefy.my.id](https://jurnal.sefy.my.id)
+
+<details>
+<summary><b>More about what I'm building</b></summary>
+
+- **Noir** runs on Go, with memory, tools, and voice.
+- **Kantor AI** has five agents: PM, backend, frontend, QA, and research.
+- **Trade Journal** syncs with the broker and can replay trades.
+
+</details>
 
 ## Tech stack
 
@@ -32,6 +45,13 @@ Developer from Indonesia. I build AI tools, web apps, and trading systems, mostl
 
 ![Sofyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SofyanEkaFebriyanto&show_icons=true&theme=dark)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SofyanEkaFebriyanto&layout=compact&theme=dark)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=SofyanEkaFebriyanto&theme=dark)
+
+## Activity
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SofyanEkaFebriyanto&theme=react-dark)
+
+![Contribution snake](https://raw.githubusercontent.com/SofyanEkaFebriyanto/SofyanEkaFebriyanto/output/github-snake.svg)
 
 ## Currently focused on
 
